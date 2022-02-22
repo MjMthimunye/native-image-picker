@@ -1,6 +1,6 @@
 *.pbxproj -text
 *.java linguist-detectable=false
-*.ObjC linguist-detectable=false
+*.objc linguist-detectable=false
 *.js linguist-detectable=true
 
 
